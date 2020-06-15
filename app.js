@@ -124,4 +124,132 @@
 // 
 // 	var a = 12;
 // 	alert("Value after variable declaration is: " + 12%3);
-// 
+
+
+// task table of 5
+
+// document.write("5" + "x" + "1" + "=" + 5*1 +"<br>")
+// document.write("5" + "x" + "2" + "=" + 5*2 +"<br>")
+// document.write("5" + "x" + "3" + "=" + 5*3 +"<br>")
+// document.write("5" + "x" + "4" + "=" + 5*4 +"<br>")
+// document.write("5" + "x" + "5" + "=" + 5*5 +"<br>")
+// document.write("5" + "x" + "6" + "=" + 5*6 +"<br>")
+// document.write("5" + "x" + "7" + "=" + 5*7 +"<br>")
+// document.write("5" + "x" + "8" + "=" + 5*8 +"<br>")
+// document.write("5" + "x" + "9" + "=" + 5*9 +"<br>")
+// document.write("5" + "x" + "10" + "=" + 5*10 +"<br>")
+
+
+
+// chapter 9
+// task 5 a
+
+
+// var a = 4;
+// if (++a === 5){
+// alert("given condition for variable a is true");
+// }
+// else{
+// 	alert("given condition for variable b is false");
+// }
+
+// task 5 b
+//  var b = 82;
+// if (b++ === 83){
+// alert("given condition for variable b is true");
+// }
+// else{
+// 	alert("given condition for variable b is false");
+// }
+
+// task 5 c
+
+// var c = 12;
+// if (c++ === 13){
+// alert("condition 1 is true");
+// }
+// else{
+//  alert("condition 1 is false");
+// }
+// if (c === 13){
+// alert("condition 2 is true");
+// }
+// else{
+// 	alert("condition 2 is false");
+// }
+// if (++c < 14){
+// alert("condition 3 is true");
+// }
+// else{
+// 	alert("condition 3 is false");
+// }
+// if(c === 14){
+// alert("condition 4 is true");
+// }
+// else{
+// 	alert("condition 4 is false");
+// }
+
+// task 5 d
+
+// var materialCost = 20000;
+// var laborCost = 2000;
+// var totalCost = materialCost + laborCost;
+// if (totalCost === laborCost + materialCost){
+// alert("The cost equals");
+// }
+// else{ 
+//  alert("The cost not equals");
+// }
+
+// task 5 e
+
+//  if (true){
+//  alert("True");
+// }
+ 
+
+// task 5 f
+
+// if("car" < "cat"){
+// alert("car is smaller than cat");
+// }
+
+
+// chapter 12
+// task 6
+
+
+// var greeting = "Good day";
+// var hour = 13;
+// if (hour < 18){
+// 	alert (greeting)
+// }
+// else{
+// greeting = "Good evening";
+// alert(greeting)
+// }
+
+// chapter 15
+// task 11
+
+// var cities = ["Karachi" , "Lahore" , "Islamabad" , "Quetta" , "Peshawar"];
+// alert(cities [2]);
+// alert(cities [3]);
+
+// CHAPTER 17
+// TASK 4 table of 7 with multipication
+
+// for( var i = 1; i <= 10; i++){
+// 	document.write("7" + "x" + "1" + "=" + 7*i +"<br>")
+// }
+
+
+// CHAPTER 20
+// TASK 5
+
+
+// var fruits = ["apple" , "banana" , "mango" , "orange" , "strawberry"];
+// for( var i = 0; i < fruits.length; i++){
+// 	document.write(fruits[i] + "<br>")
+// }
